@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "cmath": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "string_pathiew": "cpp",
+    "initializer_list": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "stacktrace": "cpp",
+    "regex": "cpp",
+    "pathalarray": "cpp",
+    "pathector": "cpp",
+    "vector": "cpp",
+    "*.tcc": "cpp",
+    "iosfwd": "cpp",
+    "valarray": "cpp",
+    "chrono": "cpp",
+    "random": "cpp",
+    "limits": "cpp"
+  }
+}
